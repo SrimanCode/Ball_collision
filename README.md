@@ -16,14 +16,14 @@ Technologies Used
 # Usage
 Clone the repository or download the project files.
 Open the index.html file in a web browser.
-Interact with the program by adjusting the ball size slider and interacting with the balls on the screen.
+
 # Development
 To modify or enhance the program, follow these steps:
-Make the necessary changes to the HTML, CSS, or JavaScript files.
-Test the changes locally to ensure they work as expected.
-Commit and push the changes to your repository.
-Optionally, create a new branch for the specific changes you made.
-Submit a pull request if you would like to contribute your changes to the original project.
+- Make the necessary changes to the HTML, CSS, or JavaScript files.
+- Test the changes locally to ensure they work as expected.
+- Commit and push the changes to your repository.
+- Optionally, create a new branch for the specific changes you made.
+- Submit a pull request if you would like to contribute your changes to the original project.
 
 # Credits
 The project was created by Sriman Ujhanthachhen.
