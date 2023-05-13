@@ -9,9 +9,9 @@ Ball Size Slider: Users can adjust the size of the balls using a range slider, p
 Interactive Balls: The balls on the screen respond to user interactions, such as hovering and clicking, creating an engaging user experience.
 Collision Detection: The program includes collision detection between balls, preventing them from overlapping and ensuring realistic movement.
 Technologies Used
--> HTML
--> CSS
--> JavaScript
+- HTML
+- CSS
+- JavaScript
 
 # Usage
 Clone the repository or download the project files.
