@@ -1,0 +1,6 @@
+body {
+    margin: 0px;
+    background-image: url(stars.jpg);
+    background-size: cover;
+    overflow: hidden;
+}
