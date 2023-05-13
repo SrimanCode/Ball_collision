@@ -194,7 +194,7 @@ class Ball {
 }
 
 let balls = [];
-for (let i=0; i<130; i++){
+for (let i=0; i<500; i++){
   balls.push(new Ball());
 }
 
