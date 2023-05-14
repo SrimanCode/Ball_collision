@@ -14,7 +14,7 @@ addEventListener("mousemove", function(event) {
 });
 
 
-let grav = 1.00001;
+let grav = 0.99;
 c.strokeWidth = 5;
 
 class Ball {
@@ -25,7 +25,7 @@ class Ball {
       this.x = Math.random() * (tx - this.radius * 2) + this.radius;
       this.y = Math.random() * (ty - this.radius);
       this.dy = Math.random() * 2;
-      this.dx = Math.round((Math.random() - 10) * 10);
+      this.dx = Math.round((Math.random() - 5) * 10);
       this.vel = Math.random() / 5;
       this.rotationAngle = 0;
       this.vx = 0;
