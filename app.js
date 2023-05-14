@@ -14,7 +14,7 @@ addEventListener("mousemove", function(event) {
 });
 
 
-let grav = 1.00001;
+let grav = 0.99;
 c.strokeWidth = 5;
 
 class Ball {
